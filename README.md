@@ -81,7 +81,7 @@
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
 
 ### Linear Algebra
-- [MIT linear algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
+- [MIT linear algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about) - книга по этому курсу [тут](https://stanford.edu/~boyd/vmls/vmls.pdf)
 - [Advanced Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)
 - [Math 104 Applied Matrix Theory Fall 20](https://statweb.stanford.edu/~candes/teaching/math104/index.html)
 
