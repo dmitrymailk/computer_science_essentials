@@ -84,6 +84,7 @@
 - [MIT linear algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about) - книга по этому курсу [тут](https://github.com/dmitrymailk/mit_linear_algebra/tree/master/books)
 - [Advanced Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)
 - [Math 104 Applied Matrix Theory Fall 20](https://statweb.stanford.edu/~candes/teaching/math104/index.html)
+- [Аналитическая геометрия и линейная алгебра](https://abitu.net/course/1123)
 
 
 ### Calculus
@@ -97,12 +98,14 @@
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses)
 - [Applied Combinatorics](https://rellek.net/book/app-comb.html)
 
+### Combinatorics
+- [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf)
+
 ### Statistics
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Probability Theory with Simulations - Part-III Continuous distributions in one-dimension - Andras Vetier 07 11 2017](http://math.bme.hu/~vetier/df/Part-III.pdf)
 - [Introduction to Probability Harvard](https://www.edx.org/course/introduction-to-probability)
-- [Statistics and probability khan academy](https://www.khanacademy.org/math/statistics-probability)
 - [INTRODUCTION TO PROBABILITY AND STATISTICS FOR ENGINEERS AND SCIENTISTS](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 
 ### Optimization
