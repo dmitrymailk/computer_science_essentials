@@ -75,6 +75,7 @@
 - [Швец А. Погружение в паттерны проектирования (2018)](https://refactoring.guru/ru/design-patterns/book)
 - [Чистая архитектура. Искусство разработки программного обеспечения  Роберт Мартин](https://www.labirint.ru/books/634082/)
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture)
+- [Online Computation and Competitive Analysis](http://www.cs.technion.ac.il/~rani/book.html)
 
 ### Network
 - [Computer Networking: A Top-Down Approach 7th Edition](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
