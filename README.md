@@ -83,6 +83,7 @@
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
 
 ### Linear Algebra
+- [Stanford ENGR108: Introduction to Applied Linear Algebra | 2020](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - [video lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) - [official website](https://web.stanford.edu/class/engr108/lectures.html)
 - [Introduction to linear algebra - Gilbert Strang](https://github.com/dmitrymailk/mit_linear_algebra/tree/master/books)
 - [Advanced Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)
 - [Math 104 Applied Matrix Theory Fall 20](https://statweb.stanford.edu/~candes/teaching/math104/index.html)
