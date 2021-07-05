@@ -102,7 +102,7 @@
 - [Applied Combinatorics](https://rellek.net/book/app-comb.html)
 
 ### Combinatorics
-- [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf)
+- [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf) - [Комбинаторика_Виленкин_1969]
 
 ### Statistics
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
