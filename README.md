@@ -107,7 +107,6 @@
 ### Statistics
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [Probability Theory with Simulations - Part-III Continuous distributions in one-dimension - Andras Vetier 07 11 2017](http://math.bme.hu/~vetier/df/Part-III.pdf)
 - [Introduction to Probability Harvard](https://www.edx.org/course/introduction-to-probability)
 - [INTRODUCTION TO PROBABILITY AND STATISTICS FOR ENGINEERS AND SCIENTISTS](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 
