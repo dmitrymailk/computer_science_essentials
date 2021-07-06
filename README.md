@@ -105,6 +105,7 @@
 - [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf) - [Комбинаторика_Виленкин_1969]
 
 ### Statistics
+- [Теория вероятностей и математическая статистика Кремер](https://github.com/dmitrymailk/computer_science_essentials/blob/main/statistics/Teoria_Veroyatnostey_I_Matematicheskaya_Statistika_Kremer_2010.pdf)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Introduction to Probability Harvard](https://www.edx.org/course/introduction-to-probability)
