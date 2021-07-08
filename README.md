@@ -94,6 +94,10 @@
 - [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
 - [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
 - [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
+- [Курс математического анализа В 3 томах_Том 1_Кудрявцев_2003](https://github.com/dmitrymailk/computer_science_essentials/blob/main/calculus/%D0%9A%D1%83%D1%80%D1%81%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%92%203%20%D1%82%D0%BE%D0%BC%D0%B0%D1%85_%D0%A2%D0%BE%D0%BC%201_%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2_2003%20-703%D1%81.pdf)
+- [Курс математического анализа В 3 томах_Том 2_Кудрявцев_2004](https://github.com/dmitrymailk/computer_science_essentials/blob/main/calculus/%D0%9A%D1%83%D1%80%D1%81%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%92%203%20%D1%82%D0%BE%D0%BC%D0%B0%D1%85_%D0%A2%D0%BE%D0%BC%202_%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2_2004%20-720%D1%81.pdf)
+- [Основы математического анализа. Фистегольц том 1](https://github.com/dmitrymailk/computer_science_essentials/blob/main/calculus/Osnovy_Matematicheskogo_Analiza_tom_1_Fikhtengolts_G_m_1968.pdf)
+- [Основы математического анализа. Фистегольц том 2](https://github.com/dmitrymailk/computer_science_essentials/blob/main/calculus/Osnovy_Matematicheskogo_Analiza_tom_2_Fikhtengolts_G_m_1968.pdf)
 
 ### Discrete Math
 - [Discrete Mathematics An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
