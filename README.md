@@ -106,7 +106,7 @@
 - [Applied Combinatorics](https://rellek.net/book/app-comb.html)
 
 ### Combinatorics
-- [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf) - [Комбинаторика_Виленкин_1969]
+- [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - [конспект учебник](https://www.teach-in.ru/file/synopsis/pdf/combinatorics-M.pdf) - [Комбинаторика_Виленкин_1969](https://github.com/dmitrymailk/computer_science_essentials/blob/main/combinatorics/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%92%D0%B8%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD_1969.pdf)
 
 ### Statistics
 - [Теория вероятностей и математическая статистика Кремер](https://github.com/dmitrymailk/computer_science_essentials/blob/main/statistics/Teoria_Veroyatnostey_I_Matematicheskaya_Statistika_Kremer_2010.pdf)
