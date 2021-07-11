@@ -195,7 +195,7 @@
 
 ### Computer Graphics
 
-- [CS123 Introduction to Computer Graphics](https://cs.brown.edu/courses/cs123/index.shtml)
+- [CS123 Introduction to Computer Graphics](https://cs.brown.edu/courses/cs123/index.shtml) - [список материалов](https://cs.brown.edu/courses/cs123/lectures.shtml)
 
 ### Aссемблер
 
