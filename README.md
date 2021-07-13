@@ -196,7 +196,7 @@
 ### Computer Graphics
 
 - [CS123 Introduction to Computer Graphics](https://cs.brown.edu/courses/cs123/index.shtml) - [список материалов](https://cs.brown.edu/courses/cs123/lectures.shtml)
-- [learn open gl](https://learnopengl.com/book/book_pdf.pdf)
+- [learn open gl](https://learnopengl.com/book/book_pdf.pdf) - [source codes, code samples](https://github.com/JoeyDeVries/LearnOpenGL)
 
 ### Aссемблер
 
