@@ -144,6 +144,7 @@
 
 #### ru
 
+- [Лукьяненко Д. В. - Численные методы МГУ](https://www.youtube.com/playlist?list=PLcsjsqLLSfNCgrIHaYITHmakg0ql3kJDi)
 - [Прикладная комбинаторная оптимизация (Б.И. Гольденгорин, осень 2020) - только pdf и одна лекция](https://mipt.ru/education/chairs/dm/education/courses/kursy-po-vyboru/prikladnaya-kombinatornaya-optimizatsiya-b-i-goldengorin-osen-2020.php)
 - [Численные методы оптимизации А.Д. Мижидон](https://esstu.ru/uportal/document/download.htm?documentId=9788)
 - [ЧИСЛЕННЫЕ МЕТОДЫ ОПТИМИЗАЦИИ И.К. Васильева, П.Е. Ельцов](http://k502.xai.edu.ua/lib/upos/Meth_optim.pdf)
