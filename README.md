@@ -76,7 +76,6 @@
 
 ## Algorithms
 
-- [Майкл Солтис Введение в анализ алгоритмов](https://www.ozon.ru/product/vvedenie-v-analiz-algoritmov-151718830/)
 - [КОРМЕН АЛГОРИТМЫ ПОСТРОЕНИЕ И АНАЛИЗ](https://my-shop.ru/shop/product/1649722.html)
 - [Algorithms Illuminated Part 1](http://www.algorithmsilluminated.org/)
 - [Algorithms Illuminated Part 2](http://www.algorithmsilluminated.org/)
