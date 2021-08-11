@@ -77,7 +77,6 @@
 ## Algorithms
 
 - [КОРМЕН АЛГОРИТМЫ ПОСТРОЕНИЕ И АНАЛИЗ](https://my-shop.ru/shop/product/1649722.html) - [Ответы для самопроверки](https://ita.skanev.com/index.html)
-- [Algorithms Illuminated Part 1](http://www.algorithmsilluminated.org/)
 - [Олимпиадное программирование 2020 Антти Лааксонен](https://t.me/physics_lib/6913)
 - [Спортивное программирование [2020] Стивен Халим, Феликс Халим](https://vk.com/wall-51126445_76251)
 - [Стивен С. Скиена Алгоритмы. Руководство по разработке (2е Издание)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
